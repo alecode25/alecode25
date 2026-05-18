@@ -1,4 +1,4 @@
-# Hi, I'm [Il Tuo Nome]
+# Hi, I'm Alessandro Olivieri
 
 Full-stack web developer focused on building reliable, well-architected products.
 
@@ -53,8 +53,8 @@ I work across the stack with a preference for strongly-typed languages and clean
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alecode25&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecode25&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
