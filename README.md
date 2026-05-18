@@ -1,10 +1,10 @@
-# ⚡ [Il Tuo Nome] | Full-Stack Developer
+# ⚡ Alessandro Olivieri | Full-Stack Developer
 
 ---
 
 ## 🌱 About Me:
 
-- 🚀 I'm currently working on full-stack web applications with React, Next.js and .NET
+- 🚀 I'm currently working on full-stack web applications with React, Next.js 
 - 👯 I'm looking to collaborate on open-source web projects and modern backend systems
 - 🤔 I'm looking for help with advanced system architecture and scalable backend design
 - 🌐 I'm currently learning cloud architecture, performance optimization and clean code patterns
