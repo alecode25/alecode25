@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Alessandro%20Olivieri&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Sviluppatore%20Full-Stack%20%E2%80%A2%20Builder%20%E2%80%A2%20Startup%20Thinker&descAlignY=58&descColor=93c5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Alessandro%20Olivieri&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Sviluppatore%20%20%E2%80%A2%20Builder%20%E2%80%A2%20Startup%20Thinker&descAlignY=58&descColor=93c5fd" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-olivieri-00a29b360/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alessaandrolivierii/)
