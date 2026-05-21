@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-olivieri-00a29b360/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alessaandrolivierii/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:olivieriale2@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=TUO_USERNAME&style=flat-square&color=3b82f6&label=Profile+Views)](https://github.com/TUO_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=TUO_USERNAME&style=flat-square&color=3b82f6&label=Profile+Views)](https://github.com/alecode25)
 
 </div>
 
