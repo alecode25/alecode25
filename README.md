@@ -13,15 +13,15 @@
 
 ## Chi sono
 
-Sono uno sviluppatore full-stack di **Rimini**, concentrato sulla costruzione di applicazioni web pulite e scalabili. Mi interessa la qualità del codice, l'architettura dei sistemi e il fatto di spedire prodotti che risolvono problemi reali.
+Sono uno sviluppatore di **Rimini**, concentrato sulla costruzione di applicazioni web pulite e scalabili. Mi interessa la qualità del codice, l'architettura dei sistemi e il fatto di spedire prodotti che risolvono problemi reali.
 
 Fuori dal computer, mi alleno a **pallavolo** 🏐 e penso a **startup** — come si costruiscono i prodotti, come funzionano i mercati e come un team piccolo può costruire qualcosa di grande.
 
 ```typescript
 const alessandro = {
   posizione:  "Rimini, Italia 🇮🇹",
-  focus:      ["Full-Stack Web", "Architettura Pulita", "Product Thinking"],
-  stack:      ["Next.js", "React", "TypeScript", "ASP.NET Core", "Flutter"],
+  focus:      ["Sviluppo Web", "Architettura Pulita", "Product Thinking"],
+  stack:      ["Next.js", "React", "TypeScript", "Javascript", "Flutter"],
   studio:     ["Cloud Architecture", "Performance Optimization", "Sistemi Scalabili"],
   interessi:  ["Pallavolo 🏐", "Startup 🚀", "Strategia di Business 📈"],
   aperto_a:   "Collaborazioni open-source e progetti ambiziosi"
@@ -43,7 +43,7 @@ Bacheca di testo bidirezionale in tempo reale che si sincronizza istantaneamente
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 
 <!--
 [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/alecode25/lavagnetta)
