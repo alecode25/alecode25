@@ -14,6 +14,7 @@
 ## Chi sono
 
 Sono uno sviluppatore di **Rimini**, concentrato sulla costruzione di applicazioni web pulite e scalabili. Mi interessa la qualità del codice, l'architettura dei sistemi e il fatto di spedire prodotti che risolvono problemi reali.
+Sono sempre disponibile a costruire idee insieme ad altri ragazzi con la mia stessa visione
 
 Fuori dal computer, mi alleno a **pallavolo** 🏐 e penso a **startup** — come si costruiscono i prodotti, come funzionano i mercati e come un team piccolo può costruire qualcosa di grande.
 
@@ -100,17 +101,11 @@ Riempila con la tua prossima build. O lasciala come teaser: *"In arrivo..."*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
-**Backend**
- 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
  
 **Backend**
  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
@@ -128,7 +123,7 @@ Riempila con la tua prossima build. O lasciala come teaser: *"In arrivo..."*
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![v0](https://img.shields.io/badge/v0%20by%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
  
 ---
 
