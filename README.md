@@ -17,16 +17,7 @@ Sono uno sviluppatore di **Rimini**, concentrato sulla costruzione di applicazio
 
 Fuori dal computer, mi alleno a **pallavolo** 🏐 e penso a **startup** — come si costruiscono i prodotti, come funzionano i mercati e come un team piccolo può costruire qualcosa di grande.
 
-```typescript
-const alessandro = {
-  posizione:  "Rimini, Italia 🇮🇹",
-  focus:      ["Sviluppo Web", "Architettura Pulita", "Product Thinking"],
-  stack:      ["Next.js", "React", "TypeScript", "Javascript", "Flutter"],
-  studio:     ["Cloud Architecture", "Performance Optimization", "Sistemi Scalabili"],
-  interessi:  ["Pallavolo 🏐", "Startup 🚀", "Strategia di Business 📈"],
-  aperto_a:   "Collaborazioni open-source e progetti ambiziosi"
-};
-```
+
 
 ---
 
@@ -93,12 +84,13 @@ Riempila con la tua prossima build. O lasciala come teaser: *"In arrivo..."*
 </tr>
 </table>
 
+
 ---
-
+ 
 ## 🛠️ Stack Tecnologico
-
+ 
 **Frontend**
-
+ 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -107,32 +99,37 @@ Riempila con la tua prossima build. O lasciala come teaser: *"In arrivo..."*
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+ 
 **Backend**
-
+ 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+ 
+**Backend**
+ 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
 **Cloud & Strumenti**
-
+ 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🎯 Obiettivi 2025
-
-- [ ] Lanciare **Lavagnetta** — primi utenti paganti
-- [ ] Approfondire l'**architettura cloud** (AWS / GCP)
-- [ ] Contribuire ad almeno **2 progetti open-source**
-- [ ] Costruire e lanciare **un altro prodotto** dall'idea al mercato
-- [ ] Continuare a migliorare a **pallavolo** 🏐
-
+ 
+**AI & Strumenti per lo Sviluppo**
+ 
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![v0](https://img.shields.io/badge/v0%20by%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ 
 ---
 
 ## 📊 Statistiche GitHub
@@ -150,7 +147,7 @@ Riempila con la tua prossima build. O lasciala come teaser: *"In arrivo..."*
 
 <div align="center">
 
-*"Il typing stretto non è un vincolo — è un contratto."*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" />
 
