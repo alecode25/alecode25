@@ -264,12 +264,12 @@ Contributed to core product features and internal tooling within an agile engine
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6d28d9&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&ring=8b5cf6&fire=6d28d9&currStreakLabel=8b5cf6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecode25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6d28d9&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alecode25&theme=react&hide_border=true&background=0D1117&ring=8b5cf6&fire=6d28d9&currStreakLabel=8b5cf6" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecode25&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=10" />
 
 </div>
 
@@ -280,7 +280,7 @@ Contributed to core product features and internal tooling within an agile engine
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=alecode25&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -291,7 +291,7 @@ Contributed to core product features and internal tooling within an agile engine
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=8b5cf6&line=6d28d9&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alecode25&theme=react-dark&bg_color=0D1117&color=8b5cf6&line=6d28d9&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -302,7 +302,7 @@ Contributed to core product features and internal tooling within an agile engine
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/alecode25/alecode25/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
