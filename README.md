@@ -11,6 +11,7 @@
 
 <img src="https://img.shields.io/badge/Based%20in-Rimini%2C%20Italy-1e3a8a?style=flat-square&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Building-3DTABLE-2563eb?style=flat-square&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon-ANIF%20award-2563eb?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=alecode25&style=flat-square&color=3b82f6&label=PROFILE+VIEWS" />
 
 <br/><br/>
@@ -36,7 +37,9 @@ I'm Alessandro, a developer and founder from **Rimini** — the Italian capital 
 I build products end-to-end on my own: web apps, mobile apps and backend.
 
 - 🚀 Founder of **3DTABLE**, a nightlife platform for clubs and their guests
+- 🏆 Winner of the **ANIF award** at the *Orientation for Wellness* hackathon — RiminiWellness 2026
 - 📱 Shipping both web (React / Next.js) and mobile (Flutter)
+- 🔌 Also into hardware: ESP32 and Arduino (C++)
 - 💬 Ask me about: Supabase, React, Flutter, product building
 
 ---
@@ -45,18 +48,27 @@ I build products end-to-end on my own: web apps, mobile apps and backend.
 
 <div align="center">
 
+**Languages**
+
+![Skill Icons](https://skillicons.dev/icons?i=js,ts,dart,py,cs,cpp&theme=dark)
+
 **Frontend & Mobile**
 
-![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,flutter,dart,js,ts,html,css,tailwind&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind&theme=dark)
 
 **Backend, Data & Payments**
 
 ![Skill Icons](https://skillicons.dev/icons?i=supabase,postgres,nodejs&theme=dark)
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="48" />
 
+**Embedded & IoT**
+
+![Skill Icons](https://skillicons.dev/icons?i=arduino&theme=dark)
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="48" />
+
 **Tools & Deploy**
 
-![Skill Icons](https://skillicons.dev/icons?i=vercel,git,github,vscode&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=vercel,git,github,visualstudio,vscode&theme=dark)
 
 </div>
 
@@ -70,6 +82,17 @@ I build products end-to-end on my own: web apps, mobile apps and backend.
 > Nightlife platform for clubs and their guests — web + mobile.
 
 🔒 Closed source · 🌐 [3dtabled.com](https://3dtabled.com)
+
+### 🦴 Skeleton — 🏆 ANIF award winner
+> Real-time posture analysis using only the smartphone camera — no sensors, no wearables.
+
+Four modes — **standing, seated, squat, push-up** — each tracking what matters for that position: spine angle, shoulder asymmetry, hip alignment and lateral tilt, with an automatic rep counter and audio feedback when posture goes wrong.
+
+Built as the computer-vision core of **FITORA**, the project that won the ANIF award at the *Orientation for Wellness* hackathon at RiminiWellness 2026.
+
+▶️ [Live demo](https://alecode25.github.io/skeleton) · 🌐 [FITORA](https://galaxyluca952.github.io/FITORA-2/)
+
+<!-- TODO: aggiungi lo stack, es. `JavaScript` · `MediaPipe` (o TensorFlow.js): dalla pagina non sono riuscito a verificare la libreria usata -->
 
 ### 🔥 Fuego
 > Event sign-up system: guests enter their email and phone number and instantly receive a personal QR code for the event.
