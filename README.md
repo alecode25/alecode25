@@ -4,26 +4,26 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=200&section=header&text=Alessandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%203DTABLE%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+the+future+of+nightlife;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Flutter;From+idea+to+production%2C+solo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+the+future+of+nightlife;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Flutter;From+idea+to+production%2C+solo" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based%20in-Rimini%2C%20Italy-4c1d95?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Building-3DTABLE-6d28d9?style=flat-square&logo=rocket&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=alecode25&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/Based%20in-Rimini%2C%20Italy-1e3a8a?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Building-3DTABLE-2563eb?style=flat-square&logo=rocket&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=alecode25&style=flat-square&color=3b82f6&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
 <!-- TODO: sostituisci i link LinkedIn ed email con i tuoi (o elimina il badge) -->
 <a href="https://3dtabled.com">
-  <img src="https://img.shields.io/badge/3DTABLE-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/3DTABLE-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -71,6 +71,11 @@ I build products end-to-end on my own: web apps, mobile apps and backend.
 
 🔒 Closed source · 🌐 [3dtabled.com](https://3dtabled.com)
 
+### 🔥 Fuego
+> Event sign-up system: guests enter their email and phone number and instantly receive a personal QR code for the event.
+
+<!-- TODO: aggiungi stack e link, es.  `Flutter` · `Supabase` · [Repo](https://github.com/alecode25/NOME-REPO) -->
+
 <!-- ============ ALTRI PROGETTI ============
 Copia questo blocco per ogni progetto, tenendolo breve:
 
@@ -86,7 +91,7 @@ Copia questo blocco per ogni progetto, tenendolo breve:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=alecode25&theme=dark&hide_border=true&background=0D1117&ring=8b5cf6&fire=6d28d9&currStreakLabel=8b5cf6" />
+<img src="https://streak-stats.demolab.com/?user=alecode25&theme=dark&hide_border=true&background=0D1117&ring=3b82f6&fire=2563eb&currStreakLabel=3b82f6" />
 
 <!--
 Card "GitHub Stats" e "Top Languages": l'istanza pubblica github-readme-stats.vercel.app
@@ -94,8 +99,8 @@ Card "GitHub Stats" e "Top Languages": l'istanza pubblica github-readme-stats.ve
 https://github.com/anuraghazra/github-readme-stats, deployalo sul tuo Vercel con la env
 PAT_1 (un tuo GitHub token) e poi scommenta qui sotto sostituendo TUO-DOMINIO:
 
-<img height="170" src="https://TUO-DOMINIO.vercel.app/api?username=alecode25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6d28d9&text_color=c9d1d9" />
-<img height="170" src="https://TUO-DOMINIO.vercel.app/api/top-langs/?username=alecode25&layout=compact&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9" />
+<img height="170" src="https://TUO-DOMINIO.vercel.app/api?username=alecode25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=2563eb&text_color=c9d1d9" />
+<img height="170" src="https://TUO-DOMINIO.vercel.app/api/top-langs/?username=alecode25&layout=compact&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9" />
 -->
 
 <br/><br/>
