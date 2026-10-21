@@ -20,10 +20,10 @@
 <a href="https://3dtabled.com">
   <img src="https://img.shields.io/badge/3DTABLE-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/alessandro-olivieri-00a29b360/]">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:olivieriale2@gmail.com">
   <img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -74,7 +74,7 @@ I build products end-to-end on my own: web apps, mobile apps and backend.
 
 **Tools & Deploy**
 
-![Skill Icons](https://skillicons.dev/icons?i=vercel,git,github,visualstudio,vscode&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=vercel,git,github,androidstudio,visualstudio,vscode&theme=dark)
 
 </div>
 
@@ -107,6 +107,15 @@ Built as the computer-vision core of **FITORA**, the project that won the ANIF a
 ▶️ [Live demo](https://alecode25.github.io/skeleton) · 🌐 [FITORA](https://galaxyluca952.github.io/FITORA-2/)
 
 <!-- TODO: aggiungi lo stack, es. `JavaScript` · `MediaPipe` (o TensorFlow.js): dalla pagina non sono riuscito a verificare la libreria usata -->
+
+### 🖍️ Lavagnetta
+> A shared whiteboard that lives on your home screen as a widget.
+
+Share a link or code with the people you choose: your boards stay in sync, and whatever one person writes shows up on the other's home screen. No chats to open, no feeds to scroll — just a little board you share with someone.
+
+🚧 MVP / prototype
+
+<!-- TODO: aggiungi stack e link, es. `Kotlin` · `Supabase` · [Repo](https://github.com/alecode25/NOME-REPO) -->
 
 ### 🔥 Fuego
 > Event sign-up system: guests enter their email and phone number and instantly receive a personal QR code for the event.
