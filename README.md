@@ -85,7 +85,7 @@ I build products end-to-end on my own: web apps, mobile apps and backend.
 ## 🎓 Certificates
 
 <!-- TODO: sostituisci IL-TUO-LINK con il link di verifica del certificato (verify.skilljar.com/c/...) che trovi nel tuo account Anthropic Academy -->
-<a href="https://verify.skilljar.com/c/IL-TUO-LINK">
+<a href="[https://verify.skilljar.com/c/IL-TUO-LINK](https://verify.skilljar.com/c/9fni8xqujqr7)">
   <img src="https://img.shields.io/badge/Claude%20Code%20101-Anthropic%20Academy-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </a>
 
