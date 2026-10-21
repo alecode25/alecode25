@@ -1,7 +1,7 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=200&section=header&text=Alessandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%203DTABLE%20%C2%B7%20%20Stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=200&section=header&text=Alessandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%203DTABLE%20%C2%B7%20Developer&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+the+future+of+nightlife;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Flutter;From+idea+to+production%2C+solo" alt="Typing SVG" />
@@ -84,8 +84,7 @@ I build products end-to-end on my own: web apps, mobile apps and backend.
 
 ## 🎓 Certificates
 
-<!-- TODO: sostituisci IL-TUO-LINK con il link di verifica del certificato (verify.skilljar.com/c/...) che trovi nel tuo account Anthropic Academy -->
-<a href="[https://verify.skilljar.com/c/IL-TUO-LINK](https://verify.skilljar.com/c/9fni8xqujqr7)">
+<a href="https://verify.skilljar.com/c/9fni8xqujqr7">
   <img src="https://img.shields.io/badge/Claude%20Code%20101-Anthropic%20Academy-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </a>
 
