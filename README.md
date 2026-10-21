@@ -16,11 +16,10 @@
 
 <br/><br/>
 
-<!-- TODO: sostituisci i link LinkedIn ed email con i tuoi (o elimina il badge) -->
 <a href="https://3dtabled.com">
   <img src="https://img.shields.io/badge/3DTABLE-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="[https://linkedin.com/in/alessandro-olivieri-00a29b360/]">
+<a href="https://www.linkedin.com/in/alessandro-olivieri-00a29b360/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:olivieriale2@gmail.com">
