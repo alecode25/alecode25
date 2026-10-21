@@ -1,10 +1,10 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:8b5cf6&height=200&section=header&text=Alessandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%203DTABLE%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=200&section=header&text=Alessandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%203DTABLE%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+the+future+of+nightlife+booking;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Flutter;From+idea+to+production%2C+solo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+the+future+of+nightlife;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Flutter;From+idea+to+production%2C+solo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- TODO: sostituisci i link LinkedIn ed email con i tuoi (o elimina il badge) -->
-<a href="https://nightable1.vercel.app/">
+<a href="https://3dtabled.com">
   <img src="https://img.shields.io/badge/3DTABLE-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -33,12 +33,11 @@
 ## 👋 About me
 
 I'm Alessandro, a developer and founder from **Rimini** — the Italian capital of nightlife.
-I build products for the club and events industry, writing the code end-to-end myself: web app, mobile app, payments and backend.
+I build products end-to-end on my own: web apps, mobile apps and backend.
 
-- 🚀 Founder of **3DTABLE**, a platform to book club tables in Italy and Europe
-- 🎟️ Building ticketing tools for nightclubs (**ClubReservation**)
+- 🚀 Founder of **3DTABLE**, a nightlife platform for clubs and their guests
 - 📱 Shipping both web (React / Next.js) and mobile (Flutter)
-- 💬 Ask me about: nightlife tech, Supabase, Stripe Connect, product building
+- 💬 Ask me about: Supabase, React, Flutter, product building
 
 ---
 
@@ -53,7 +52,7 @@ I build products for the club and events industry, writing the code end-to-end m
 **Backend, Data & Payments**
 
 ![Skill Icons](https://skillicons.dev/icons?i=supabase,postgres,nodejs&theme=dark)
-<img src="https://img.shields.io/badge/Stripe%20Connect-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="48" />
 
 **Tools & Deploy**
 
@@ -67,37 +66,18 @@ I build products for the club and events industry, writing the code end-to-end m
 
 ## 🚀 Projects
 
-### 🍾 3DTABLE — Nightlife table booking
-> Book a table at the best clubs in Italy and Europe, directly from your phone.
+### 🍾 3DTABLE
+> Nightlife platform for clubs and their guests — web + mobile.
 
-| | |
-|:--|:--|
-| **What it does** | Table booking, digital menu, real-time table auctions, bill splitting with friends |
-| **For venues** | "Sell your event" flow + dashboard for clubs and promoters |
-| **Payments** | Stripe Connect |
-| **Stack** | React · React Query · Supabase · Vercel |
-| **Status** | 🟢 Live — [nightable1.vercel.app](https://nightable1.vercel.app/) |
+🔒 Closed source · 🌐 [3dtabled.com](https://3dtabled.com)
 
-### 📱 3DTABLE Manager — App for venues
-> Mobile app for club managers and event organizers to handle their 3DTABLE venues.
+<!-- ============ ALTRI PROGETTI ============
+Copia questo blocco per ogni progetto, tenendolo breve:
 
-| | |
-|:--|:--|
-| **Stack** | Flutter · Dart · Supabase |
-| **Repo** | [alecode25/3dtabled_app](https://github.com/alecode25/3dtabled_app) |
+### 🔧 NOME PROGETTO
+> Una riga su cosa fa.
 
-<!-- Se il repo è privato, togli la riga "Repo": chi visita vedrebbe un 404 -->
-
-### 🎟️ ClubReservation — Ticketing for nightclubs
-> Ticketing and reservation system built for the club industry.
-
-| | |
-|:--|:--|
-| **Website** | [clubreservation.it](https://clubreservation.it) |
-
-<!--
-### 🔥 Fuego
-> TODO: una riga su cos'è Fuego, stack e link. Scommenta questa sezione quando vuoi mostrarlo.
+`Stack` · `Stack` · [Repo](https://github.com/alecode25/NOME-REPO) · [Demo](https://...)
 -->
 
 ---
@@ -120,7 +100,6 @@ PAT_1 (un tuo GitHub token) e poi scommenta qui sotto sostituendo TUO-DOMINIO:
 
 <br/><br/>
 
-<!-- Lo snake funziona solo dopo aver aggiunto il workflow .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alecode25/alecode25/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alecode25/alecode25/output/github-snake.svg" />
@@ -134,16 +113,15 @@ PAT_1 (un tuo GitHub token) e poi scommenta qui sotto sostituendo TUO-DOMINIO:
 ## 🎯 Currently
 
 ```yaml
-building:   3DTABLE — web platform + venue app
-working_on: certified ticketing for Italian clubs
+building:   3DTABLE
 based_in:   Rimini, Italy 🇮🇹
-open_to:    partnerships with clubs, promoters & ticketing platforms
+open_to:    partnerships & collaborations
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6d28d9,100:4c1d95&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2563eb,100:1e3a8a&height=110&section=footer" />
 
 </div>
